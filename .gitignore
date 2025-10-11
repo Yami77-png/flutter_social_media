@@ -54,3 +54,4 @@ app.*.map.json
 **/firebase.json
 **/firebase.json.remote.device
 **/firebase_options.dart
+**/.vscode/
