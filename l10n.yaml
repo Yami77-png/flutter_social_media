@@ -1,0 +1,23 @@
+arb-dir: lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+# synthetic-package: false
+enable-cache: true
+
+translator:
+  #Defaults to Google Translate.
+  service: Google
+
+  targets:
+    - bn
+    - hi
+    - ne
+    - de
+    - ja
+    - th
+    - ar
+    - ta
+    - te
+    - mr
+    - gu
+    - ms
