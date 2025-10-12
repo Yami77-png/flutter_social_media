@@ -1,7 +1,6 @@
-
 # 🌐 Flutter Social Media
 
-A **Flutter-based social media application** built as a **hobby project**.
+A **Flutter-based social media application** built as a **hobby project**. I've shared the full story and lessons learned on my website. [Read it here.](https://www.avizitrx.com/blogs/mobile-development/a-developers-journey-building-a-feature-rich-social-media-app-in-flutter)
 
 ## Features Overview
 
